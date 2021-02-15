@@ -16,7 +16,7 @@ def find_min_in_nested_arrays(src)
     mins << day_min
     day += 1 
   end
-  puts mins
+  return mins
 end
 
 
